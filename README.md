@@ -37,7 +37,7 @@
 
 <hr>
 
-### <samp>Github Stats
+## 📈 Github Stats:
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
