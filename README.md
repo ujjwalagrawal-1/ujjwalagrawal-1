@@ -18,7 +18,6 @@
 
 <p align="center">
 <a href="mailto:ujjwalagrawal2004@gmail.com" alt="GMail"><img src="https://skillicons.dev/icons?i=gmail" width="50"></a>
-<a href="https://discord.gg/Bsdp4rZBtP" alt="Discord"><img src="https://skillicons.dev/icons?i=discord" width="50"></a>
 <a href="https://www.linkedin.com/in/ujjwal-agrawal-9267b1253/" alt="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a>
 <a href="https://www.instagram.com/itz_ujjwalagrawal/" alt="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="50"></a>
 <a href="https://www.codechef.com/users/unerring_coder" alt="Codechef"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" width="50"></a>
