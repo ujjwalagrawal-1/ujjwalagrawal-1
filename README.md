@@ -4,7 +4,7 @@
   <img src="https://visitcount.itsvg.in/api?id=ujjwalagrawal-1&label=Profile%20Views&color=9&icon=6&pretty=false" />
 </a>
 
-- 👷 <samp>Currently pursuing B.Tech in Information Technology(2021-2026) from National Institute of Technology Raipur
+- 👷 <samp>Currently pursuing B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur
 - 🔭 <samp>Schooled from CARE Academy , Qualified Jee Mains - 98 %ile, Advance - 15K.
 - 💬 <samp>Ask me about CP/Html/CSS/React
 - 🌱 <samp>I’m currently learning BlockChain.
