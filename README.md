@@ -11,7 +11,6 @@
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I think I can become CM at CF.
 - 📫 <samp>How to reach me agrawalujjwal2004@gmail.com
-- 🧑‍🏫 <samp>Mentor : <a href="https://github.com/virajchandra51">@virajchandra</a>
 
 
 ## 🌐 Connect with Me:
