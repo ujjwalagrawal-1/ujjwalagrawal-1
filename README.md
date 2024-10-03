@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/itz_ujjwalagrawal/" alt="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="50"></a>
 <a href="https://www.codechef.com/users/unerring_coder" alt="Codechef"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" width="50"></a>
 <a href="https://codeforces.com/profile/unerring_coder" alt="Codeforces"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jceCE02769CeE2YG1Pv3_WAOCpCpK20wm64yRomjTnxXBwMApFbf7vJsx5EjzvGHpPg&usqp=CAU" height="50" width="50"></a>
-<a href="https://leetcode.com/ujjwal/" alt="Leetcode"><img src="https://avatars.githubusercontent.com/u/41718343?s=200&v=4" height="50" width="50"></a>
+<a href="https://leetcode.com/u/ujjwal_bhavishya_0101/" alt="Leetcode"><img src="https://avatars.githubusercontent.com/u/41718343?s=200&v=4" height="50" width="50"></a>
 <a href="https://main--portfoliowebsit.netlify.app/" alt="My site"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5vM8_4U1okzbHKrqwb44hDMk1RtN0823bgW-oUajK44lVgRPvhpvKwEsTlXlem2l8IE&usqp=CAU" height="50" width="50"></a>
 </p>
 
