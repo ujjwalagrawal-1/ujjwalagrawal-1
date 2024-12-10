@@ -9,7 +9,7 @@
 - 💬 <samp>Ask me about CP/Html/CSS/React
 - 🌱 <samp>I’m currently learning BlockChain.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I think I can become CM at CF.
+- ⚡ <samp>Fun fact: My Motivation comes from my blood 🩸(B+ve).
 - 📫 <samp>How to reach me agrawalujjwal2004@gmail.com
 
 
